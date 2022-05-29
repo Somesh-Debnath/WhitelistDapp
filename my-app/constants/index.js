@@ -63,4 +63,4 @@ export const abi=[
       "type": "function"
     }
   ]
-  export const WHITELIST_CONTRACT_ADDRESS="W0x57a7bD8C5aEe2C765a43C03FE886e11315ca5336"
+  export const WHITELIST_CONTRACT_ADDRESS="0x51620532C6941d93EE75B388d4735360Ed670B3a"
