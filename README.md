@@ -1,2 +1,2 @@
 # WhitelistDapp
-<b>The App is deployed using <a href="vercel.com" label="Vercel" /> </b>
+<b>The App is deployed using <a href="https://vercel.com" >Vercel</> </b>
